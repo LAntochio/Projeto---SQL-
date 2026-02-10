@@ -15,7 +15,6 @@ Qual o melhor dia da semana para disparar campanhas de marketing?
 -Ferramentas Utilizadas
 
 Linguagem: SQL (PostgreSQL).
-Visualização(Output): Excel/CSV para análise final.
 
 
 -O Schema do Banco de Dados
